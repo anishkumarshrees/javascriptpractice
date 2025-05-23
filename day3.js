@@ -30,6 +30,8 @@ let address="Butwal"
 let myInformation = {
     name:"anish",
     age:23,
-    address:["Butwal","gulmi"]
+    address:["Butwal","gulmi"] //eauta vanda dherai data huda [] vitra lekhni
 }
 console.log(myInformation)
+
+
